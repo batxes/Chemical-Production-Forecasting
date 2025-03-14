@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on using an [LSTM](w) model to predict key chemical production outputs based on timeseries data from multiple reactors. The dataset consists of hourly resolution data collected over a year, totaling **37,728 samples** from **six reactors**.
 
-![Forecasting](https://github.com/batxes/Chemical-Production-Forecasting/blob/master/figures/evaluation_model_reactor_2_target_2%7CCB.pdf)
+![Forecasting](https://github.com/batxes/Chemical-Production-Forecasting/blob/master/figures/evaluation_model_reactor_2_target_2%7CCB.png)
 
 ## Dataset
 Each sample contains multiple sensor readings. For example, Reactor 2 includes:
